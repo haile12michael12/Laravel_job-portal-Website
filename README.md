@@ -88,5 +88,5 @@ database/migrations - DB schema definitions
 ## 📄 License
 This project is open-source and available under the MIT license.
 
-🙌 Contributing
+## 🙌 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss your idea.
